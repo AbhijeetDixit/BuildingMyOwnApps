@@ -1,0 +1,8 @@
+D:\github\BuildingMyOwnApps\Bin2Dec\C#_Windows_UI\Bin2Dec\bin\Debug\Bin2Dec.exe.config
+D:\github\BuildingMyOwnApps\Bin2Dec\C#_Windows_UI\Bin2Dec\bin\Debug\Bin2Dec.exe
+D:\github\BuildingMyOwnApps\Bin2Dec\C#_Windows_UI\Bin2Dec\bin\Debug\Bin2Dec.pdb
+D:\github\BuildingMyOwnApps\Bin2Dec\C#_Windows_UI\Bin2Dec\obj\Debug\Bin2Dec.Properties.Resources.resources
+D:\github\BuildingMyOwnApps\Bin2Dec\C#_Windows_UI\Bin2Dec\obj\Debug\Bin2Dec.csproj.GenerateResource.cache
+D:\github\BuildingMyOwnApps\Bin2Dec\C#_Windows_UI\Bin2Dec\obj\Debug\Bin2Dec.csproj.CoreCompileInputs.cache
+D:\github\BuildingMyOwnApps\Bin2Dec\C#_Windows_UI\Bin2Dec\obj\Debug\Bin2Dec.exe
+D:\github\BuildingMyOwnApps\Bin2Dec\C#_Windows_UI\Bin2Dec\obj\Debug\Bin2Dec.pdb
