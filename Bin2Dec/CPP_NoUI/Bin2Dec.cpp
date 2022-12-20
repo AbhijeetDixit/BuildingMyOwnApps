@@ -11,14 +11,13 @@ bool isBinaryStringValid(string bin){
 
 string getBinFromDecimal(int dec){
 	string ret = "";
+	string tempRet = "";
 	while(dec){
-		ret += ((dec & 0x01) + '0');
+		tempRet += ((dec & 0x01) + '0');
 		dec = dec >> 1;
 	}
-	for(int i = 0; i < ret.length()/2; i++){
-		char temp = ret[i];
-		ret[i] = ret[ret.length()-i];
-		ret[ret.length()-i] = temp;
+	for(int i = tempRet.length()-1; i >= 0; i--){
+		ret += tempRet[i];
 	}
 	return ret;
 }
